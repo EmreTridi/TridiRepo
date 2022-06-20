@@ -1,0 +1,11 @@
+{"DB_KEY": {
+    "User":"trididata",
+    "Pswd":"JF~b6AC?3k&bD}wt",
+    "awsKey":"tridicopostgre-frankfurt.cvcitqdtt8kv.eu-central-1.rds.amazonaws.com",
+    "DbName":"tridimain_v4"
+},
+    "START_TIME":"'2022-05-23 00:00:00.000'",
+    "STARTDATEORDER":"'2022-05-23 00:00:00.000'",
+    "UPTODATEORDER":"'2022-05-28 00:00:00.000'",
+    "STARTDATEOFFER":"'2022-05-23 00:00:00.000'",
+    "UPTODATEOFFER":"'2022-05-28 00:00:00.000'"}
